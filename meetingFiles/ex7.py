@@ -100,8 +100,8 @@ raw_html = respObj.text # returns raw HTML from website as a string
 #FIXME
 raw_html = add_space_between_tags(raw_html)
 
-#print((raw_html))
-#quit()
+print((raw_html))
+
 
 
 
